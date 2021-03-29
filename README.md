@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @yankeehotelfoxtrot51
+- 👀 I’m interested in ...
+Webdevelopment. I'm a beginner but i'm really enjoying the process.
+- 🌱 I’m currently learning ...
+APIs, I want to make a simple currency converter using the FIXER API, and I want to make a twitterbot.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+email me at tbgrilliot@gmail.com
+
+<!---
+yankeehotelfoxtrot51/yankeehotelfoxtrot51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
